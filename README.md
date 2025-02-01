@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Christeen Fernando</h1>
 <h3 align="center">a passionate Software Engineering undergraduate at NSBM Green University, currently in my second year as a Plymouth University student.</h3>
