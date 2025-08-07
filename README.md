@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fwschristeen&label=Profile%20views&color=0e75b6&style=flat" alt="fwschristeen" /> </p>
 
-- 🔭 I’m currently working on **🔧 IoT-based Smart Traffic Monitoring & Congestion System**
+- 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **mobile applications (iOS & cross-platform)**
+- 🌱 I’m currently learning **mobile applications (iOS & cross-platform) ui/ux development and frontend**
 
 - 📫 How to reach me **shenoli1120@gmail.com**
 
